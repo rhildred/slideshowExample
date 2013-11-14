@@ -26,7 +26,7 @@ Then, after including jQuery, include the following:
 		});
 	</script>
 
-You can see an [example here](http://rawgithub.com/rhildred/slideshowExample/master/DocumentRoot/index.html).
+You can see an [example here](http://rawgithub.com/rhildred/slideshowExample/master/public/slideShow.html).
 
 hoverBox Example
 ================
@@ -55,5 +55,5 @@ Then, after including jQuery, include the following:
 		});
 	</script>
 
-You can see an [example here](http://rawgithub.com/rhildred/slideshowExample/master/DocumentRoot/hoverBox.html).
+You can see an [example here](http://rawgithub.com/rhildred/slideshowExample/master/public/hoverBox.html).
 	
