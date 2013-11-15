@@ -1,6 +1,18 @@
 html, body {
     height: 100%;
 }
+
+html{
+	background: url('../images/clouds.jpg');
+}
+
+body{
+	background: url('../images/pictureframe2.jpg');
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+	
+}
 #wrap {
     height: auto;
     margin: 0 auto -60px;
