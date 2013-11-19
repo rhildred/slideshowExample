@@ -24,8 +24,8 @@ body {
 	left: 0;
 	bottom: 0;
 	right: 0;
-	width: 180px;
-	height: 260px;
+	width: 200px;
+	height: 276px;
     overflow-y: scroll;
 }
 
@@ -36,7 +36,7 @@ body {
 		height: 480px;
 	}
 	#wrapper {
-		width: 260px;
+		width: 268px;
 		height: 420px;
 	}
 }
@@ -49,7 +49,7 @@ body {
 	}
 	#wrapper {
 		width: 420px;
-		height: 260px;
+		height: 264px;
 	}
 }
 
@@ -96,8 +96,8 @@ body {
 		height: 600px;
 	}
 	#wrapper {
-		width: 680px;
-		height: 480px;
+		width: 700px;
+		height: 500px;
 	}
 }
 
@@ -108,19 +108,30 @@ body {
 		height: 720px;
 	}
 	#wrapper {
-		width: 1130px;
-		height: 578px;
+		width: 1150px;
+		height: 598px;
 	}
 }
 
 @media screen and (min-width: 2000px) {
 	body {
-		background: url('../images/1280x720.png');
+		background: url('../images/1800x1062.png');
 		width: 1800px;
 		height: 1062px;
 	}
 	#wrapper {
-		width: 1130px;
-		height: 578px;
+		width: 1670px;
+		height: 940px;
 	}
+}
+#wrap {
+    height: auto;
+    margin: 0 auto -54px;
+    min-height: 100%;
+    padding: 0 0 60px;
+}
+#footer {
+    background-color: #F5F5F5;
+    height: 50px;
+    margin-bottom: 6px
 }

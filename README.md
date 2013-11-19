@@ -56,4 +56,13 @@ Then, after including jQuery, include the following:
 	</script>
 
 You can see an [example here](http://rawgithub.com/rhildred/slideshowExample/master/public/hoverBox.html).
+
+Picture Frame Example
+=====================
+
+A student had the idea for an art site of putting the contents in a picture frame.
+
+You can see an [example here](http://rawgithub.com/rhildred/slideshowExample/master/public/frameOnWall.html).
+
+There is an [example here with bootstrap's sticky footer idea.](http://rawgithub.com/rhildred/slideshowExample/master/public/stickyFooter.html).
 	
