@@ -18,6 +18,7 @@ Mark up your document like so:
 
 Then, after including jQuery, include the following:
 	
+	<script src="//rhfp-syndicateme.rhcloud.com/js/toolbox.js"></script>
 	<script src="//rhfp-syndicateme.rhcloud.com/js/slideshow.js"></script>
 	<script type="text/javascript">
 
